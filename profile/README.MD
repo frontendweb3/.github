@@ -33,6 +33,7 @@ Frontend web is always a looking contributor for our open-source project. You ca
 We provide a step-by-step guide for everyone. You do not worry about it. First, select the template according to your stack. We mostly work with nextjs, tailwind css, and other react base libraries. 
 
 Every template and project has a contribution guide. You can follow the guide and submit your first pull request with us. 
+
 Happy Journey
 
 ---
