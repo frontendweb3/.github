@@ -1,6 +1,6 @@
 ![Frontendweb](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Frontendweb&fontSize=90&animation=fadeIn)
 
-Frontend web is a platform for writers and readers to read and write new posts about frontend developers, full-stack developers, Web developers, and Computer science. It is an open-source community that joins and gathers frontend developers to build and share knowledge with others.
+Front-end web is a platform for writers and readers to read and write new posts about front-end developers, full-stack developers, Web developers, and Computer science. It is an open-source community that joins and gathers front-end developers to build and share knowledge with others.
 
 ## Follow us
 
@@ -39,6 +39,7 @@ Happy Journey
 ---
 
 ## Our Company Stack
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -70,8 +71,6 @@ Check out our latest template under an open-source License.
 ### GHOST CMS 
 
 * [Fastest](https://github.com/frontendweb3/fastest): The fastest is a lightweight theme built for ghost cms.
-
-
 
 ### HTML and Tailwind CSS
 
