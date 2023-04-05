@@ -25,7 +25,6 @@ Front-end web is a platform for writers and readers to read and write new posts 
 
 </div>
 
----
 
 ## Contributing
 Frontend web is always a looking contributor for our open-source project. You can start your open-source journey with us. 
