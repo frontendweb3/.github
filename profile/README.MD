@@ -1,6 +1,6 @@
 ![Frontendweb](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Frontendweb&fontSize=90&animation=fadeIn)
 
-Front-end web is a platform for writers and readers to read and write new posts about front-end developers, full-stack developers, Web developers, and Computer science. It is an open-source community that joins and gathers front-end developers to build and share knowledge with others.
+**Front-end web** is a platform for writers and readers to read and write new posts about front-end developers, full-stack developers, Web developers, and Computer science. It is an open-source community that joins and gathers front-end developers to build and share knowledge with others.
 
 ## Follow us
 
