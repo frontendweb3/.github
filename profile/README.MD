@@ -63,6 +63,7 @@ Check out our latest template under an open-source License.
 
 ###  Nextjs, TailwindCSS, Markdown 
 
+* [Nextify](https://github.com/frontendweb3/nextify): Nextify is a pre-built template for building documentation sites  with blog using Next.js and Fumadocs.
 * [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist blog template built with nextjs and tailwind css.
 * [Open Blog](https://github.com/frontendweb3/open-blog): Open blog is a bloging template built with nextjs, tailwind CSS and markdown.
 * [Blogify](https://github.com/frontendweb3/blogify): Blogify is an open-source nextjs blog template design with tailwind CSS.
