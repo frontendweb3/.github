@@ -58,25 +58,26 @@ Happy Journey
 ---
 
 ## Templates
-Check out our latest template under an open-source License. 
 
+Check out our latest template available under an open-source Licence.
 
 ###  Nextjs, TailwindCSS, Markdown 
 
-* [Nextify](https://github.com/frontendweb3/nextify): Nextify is a pre-built template for building documentation sites  with blog using Next.js and Fumadocs.
-* [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist blog template built with nextjs and tailwind css.
-* [Open Blog](https://github.com/frontendweb3/open-blog): Open blog is a bloging template built with nextjs, tailwind CSS and markdown.
-* [Blogify](https://github.com/frontendweb3/blogify): Blogify is an open-source nextjs blog template design with tailwind CSS.
+* [Nextify](https://github.com/frontendweb3/nextify): Nextify is a pre-built template for creating documentation sites with a blog using Next.js and Fumadocs.
+* [Minimalist](https://github.com/frontendweb3/minimalist): Minimalist blog template built with Next.js and Tailwind CSS.
+* [Open Blog](https://github.com/frontendweb3/open-blog): Open Blog is a blog template designed with Next.js, Tailwind CSS, and Markdown.
+* [Blogify](https://github.com/frontendweb3/blogify):  Blogify is an open-source Next.js blog template crafted with Tailwind CSS.
+
 
 ### GHOST CMS 
 
-* [Fastest](https://github.com/frontendweb3/fastest): The fastest is a lightweight theme built for ghost cms.
+* [Fastest](https://github.com/frontendweb3/fastest):  The Fastest is a lightweight theme built for Ghost CMS.
 
 ### HTML and Tailwind CSS
 
-* [BlogPost](https://github.com/frontendweb3/blogpost): Blog Post is simple and lightweight html template for blogging. 
+* [BlogPost](https://github.com/frontendweb3/blogpost): Blogpost is a simple and lightweight HTML template for blogging.
 
 
-
+---
 
 
