@@ -74,6 +74,10 @@ Check out our latest template available under an open-source Licence.
 
 * [Fastest](https://github.com/frontendweb3/fastest):  The Fastest is a lightweight theme built for Ghost CMS.
 
+### Documentation
+
+* [Section Blog Theme](https://github.com/frontendweb3/section-blog-theme) - Start a blog in under two minutes with Next.js and Nextra. Enjoy dark mode, a search bar, customizable navigation, and SEO support—all with one command.
+
 ---
 
 
