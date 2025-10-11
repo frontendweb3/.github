@@ -27,9 +27,10 @@
 
 
 ## Contributing
-Frontend web is always a looking contributor for our open-source project. You can start your open-source journey with us. 
 
-We provide a step-by-step guide for everyone. You do not worry about it. First, select the template according to your stack. We mostly work with nextjs, Tailwind CSS, and other react base libraries. 
+Frontend web is always looking for contributors for our open-source project. You can start your open-source journey with us. 
+
+We provide a step-by-step guide for everyone. You do not worry about it. First, select the template according to your stack. We mostly work with nextjs, Tailwind CSS, and other React-based libraries. 
 
 Every template and project has a contribution guide. You can follow the guide and submit your first pull request with us. 
 
@@ -72,11 +73,6 @@ Check out our latest template available under an open-source Licence.
 ### GHOST CMS 
 
 * [Fastest](https://github.com/frontendweb3/fastest):  The Fastest is a lightweight theme built for Ghost CMS.
-
-### HTML and Tailwind CSS
-
-* [BlogPost](https://github.com/frontendweb3/blogpost): Blogpost is a simple and lightweight HTML template for blogging.
-
 
 ---
 
