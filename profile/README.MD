@@ -69,13 +69,9 @@ Check out our latest template available under an open-source Licence.
 * [Open Blog](https://github.com/frontendweb3/open-blog) - Open Blog is a blog template designed with Next.js, Tailwind CSS, and Markdown.
 * [Blogify](https://github.com/frontendweb3/blogify) - Blogify is an open-source Next.js blog template crafted with Tailwind CSS.
 
----
-
 ### GHOST CMS 
 
 * [Fastest](https://github.com/frontendweb3/fastest)- The fastest is a lightweight Ghost theme that lets you create a blog with Ghost CMS in under 5 minutes.
-
----
 
 ### Documentation
 
