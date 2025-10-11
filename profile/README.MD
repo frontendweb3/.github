@@ -71,7 +71,7 @@ Check out our latest template available under an open-source Licence.
 
 ### GHOST CMS 
 
-* [Fastest](https://github.com/frontendweb3/fastest)- The fastest is a lightweight Ghost theme that lets you create a blog with Ghost CMS in under 5 minutes.
+* [Fastest](https://github.com/frontendweb3/fastest) - The fastest is a lightweight Ghost theme that lets you create a blog with Ghost CMS in under 5 minutes.
 
 ### Documentation
 
