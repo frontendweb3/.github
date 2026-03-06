@@ -58,20 +58,21 @@ Happy Journey
 
 ---
 
-## Check out our templates
+## Check out our open source templates
 
 Check out our latest template available under an open-source Licence.
 
-###  Nextjs, TailwindCSS, Markdown 
+###  Nextjs, TailwindCSS, Markdown Teamplate
 
 * [Nextify](https://github.com/frontendweb3/nextify) - Nextify is a pre-built template for creating documentation sites with a blog using Next.js and Fumadocs.
 * [Minimalist](https://github.com/frontendweb3/minimalist) - Minimalist blog template built with Next.js and Tailwind CSS.
 * [Open Blog](https://github.com/frontendweb3/open-blog) - Open Blog is a blog template designed with Next.js, Tailwind CSS, and Markdown.
 * [Blogify](https://github.com/frontendweb3/blogify) - Blogify is an open-source Next.js blog template crafted with Tailwind CSS.
 
-### GHOST CMS 
+### GHOST CMS Theme
 
 * [Fastest](https://github.com/frontendweb3/fastest) - The fastest is a lightweight Ghost theme that lets you create a blog with Ghost CMS in under 5 minutes.
+* [Logly](https://github.com/frontendweb3/logly) - Logly is a minimalist open-source theme designed for Ghost blogs.
 
 ### Documentation
 
