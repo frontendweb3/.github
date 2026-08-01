@@ -71,9 +71,11 @@ Check out our latest template available under an open-source Licence.
 
 ### GHOST CMS Theme
 
-* [Fastest](https://github.com/frontendweb3/fastest) - The fastest is a lightweight Ghost theme that lets you create a blog with Ghost CMS in under 5 minutes.
+* [Fastest](https://github.com/frontendweb3/fastest) - Fastest is a lightweight Ghost theme that lets you create a blog with Ghost CMS in under 5 minutes.
 * [Logly](https://github.com/frontendweb3/logly) - Logly is a minimalist open-source theme designed for Ghost blogs.
 * [Ghost Theme Starter Kit](https://github.com/frontendweb3/ghost-theme-starter-kit) - The Ghost CMS theme starter kit is a boilerplate or template that helps you build a Ghost CMS theme with modern tools (Vite + Tailwind CSS 4).
+* [Ghost Theme Builder](https://github.com/frontendweb3/ghost-theme-builder) - Build, customize, review, debug, migrate, and optimize Ghost CMS Handlebars themes. Use for Ghost theme templates and partials, package.json custom settings, routes.yaml, memberships, Portal, comments, search, GScan, or converting a design into a Ghost theme.
+* [Awesome Ghost](https://github.com/frontendweb3/awesome-ghost) - A curated list of awesome resources, themes, tools, integrations, and tutorials for Ghost CMS.
 
 ### Documentation
 
