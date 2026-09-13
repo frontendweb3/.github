@@ -28,7 +28,7 @@
 
 ## Contributing
 
-Frontend Web is always looking for contributors for our open-source project. You can start your open-source journey with us. 
+Frontend Web is always looking for contributors to our open-source project. You can start your open-source journey with us. 
 
 We provide a step-by-step guide for everyone. You don't need to worry about it. First, select the template according to your stack. We mostly work with nextjs, Tailwind CSS, and other React-based libraries. 
 
@@ -65,13 +65,13 @@ Check out our latest template available under an open-source Licence.
 ### GHOST CMS Theme
 
 * [Awesome Ghost](https://github.com/frontendweb3/awesome-ghost) - A curated list of awesome resources, themes, tools, integrations, and tutorials for Ghost CMS.
-* [Ghost Theme Builder](https://github.com/frontendweb3/ghost-theme-builder) - Build, customize, review, debug, migrate, and optimize Ghost CMS Handlebars themes. Use for Ghost theme templates and partials, package.json custom settings, routes.yaml, memberships, Portal, comments, search, GScan, or converting a design into a Ghost theme.
+* [Ghost Theme Builder](https://github.com/frontendweb3/ghost-theme-builder) - Build, customize, review, debug, migrate, and optimize Ghost CMS Handlebars themes. Use for Ghost theme templates and partials, package.json custom settings, routes.YAML, memberships, Portal, comments, search, GScan, or converting a design into a Ghost theme.
 * [Fastest](https://github.com/frontendweb3/fastest) - Fastest is a lightweight Ghost theme that lets you create a blog with Ghost CMS in under 5 minutes.
 * [Logly](https://github.com/frontendweb3/logly) - Logly is a minimalist open-source theme designed for Ghost blogs.
 * [Ghost Theme Starter Kit](https://github.com/frontendweb3/ghost-theme-starter-kit) - The Ghost CMS theme starter kit is a boilerplate or template that helps you build a Ghost CMS theme with modern tools (Vite + Tailwind CSS 4).
 
 
-###  Nextjs, TailwindCSS, Markdown Template
+###  Nextjs, Tailwind CSS, Markdown Template
 
 * [Nextify](https://github.com/frontendweb3/nextify) - Nextify is a pre-built template for creating documentation sites with a blog using Next.js and Fumadocs.
 * [Minimalist](https://github.com/frontendweb3/minimalist) - Minimalist blog template built with Next.js and Tailwind CSS.
