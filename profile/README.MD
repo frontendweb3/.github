@@ -70,7 +70,7 @@ Check out our latest template available under an open-source Licence.
 * [Logly](https://github.com/frontendweb3/logly) - Logly is a minimalist open-source theme designed for Ghost blogs.
 * [Ghost Theme Starter Kit](https://github.com/frontendweb3/ghost-theme-starter-kit) - The Ghost CMS theme starter kit is a boilerplate or template that helps you build a Ghost CMS theme with modern tools (Vite + Tailwind CSS 4).
 * [Outline](https://github.com/frontendweb3/outline) - A modern Ghost CMS theme for blogs, tutorials, documentation, and knowledge-driven publishing.
-* [Pulse](https://github.com/frontendweb3/pulse) - A modern Ghost CMS theme for blogs, tutorials, documentation, and knowledge-driven publishing.
+* [Pulse](https://github.com/frontendweb3/pulse) - A minimal, dark-mode-first Ghost CMS theme built with Vite, Tailwind CSS 4, and Alpine.js.
 
 
 ###  Nextjs, Tailwind CSS, Markdown Template
