@@ -1,6 +1,6 @@
 ![Frontendweb](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Frontendweb&fontSize=90&animation=fadeIn)
 
-**Front-end web** is a platform for writers and readers to read and write new posts about front-end developers, full-stack developers, Web developers, and Computer science. It is an open-source community that joins and gathers front-end developers to build and share knowledge with others.
+**Front-end web** is a platform for writers and readers to read and write new posts about front-end developers, full-stack developers, Web developers, and Computer science. It is an open-source community that brings front-end developers together to build and share knowledge.
 
 ## Follow us
 
@@ -69,6 +69,8 @@ Check out our latest template available under an open-source Licence.
 * [Fastest](https://github.com/frontendweb3/fastest) - Fastest is a lightweight Ghost theme that lets you create a blog with Ghost CMS in under 5 minutes.
 * [Logly](https://github.com/frontendweb3/logly) - Logly is a minimalist open-source theme designed for Ghost blogs.
 * [Ghost Theme Starter Kit](https://github.com/frontendweb3/ghost-theme-starter-kit) - The Ghost CMS theme starter kit is a boilerplate or template that helps you build a Ghost CMS theme with modern tools (Vite + Tailwind CSS 4).
+* [Outline](https://github.com/frontendweb3/outline) - A modern Ghost CMS theme for blogs, tutorials, documentation, and knowledge-driven publishing.
+* [Pulse](https://github.com/frontendweb3/pulse) - A modern Ghost CMS theme for blogs, tutorials, documentation, and knowledge-driven publishing.
 
 
 ###  Nextjs, Tailwind CSS, Markdown Template
